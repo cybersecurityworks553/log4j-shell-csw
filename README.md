@@ -1,7 +1,7 @@
 # Log4j Simple Exploit
 A Proof-Of-Concept Exploit for ***CVE-2021-44228*** vulnerability.
 
-Log4j, which is used to log security and performance information, impacts upwards of 3 billion devices that use Java across a variety of consumer and enterprise services, websites and applications, as well as medical devices and supporting systems.
+Log4j, which is used to log security and performance information, impacts upwards of 3 billion devices that use Java across a variety of consumer and enterprise services, websites and applications, as well as medical devices and supporting systems.<br>
 ***Note: This is not a "point and click" exploit. The initial trigger payload will be generated, but injecting it into the appropriate place (i.e. HTTP header/chat/etc.) will be up to the user.***
 
 ## Prerequisite's
